@@ -1,5 +1,5 @@
 # HW1 – Convolutions and Canny Edge Detector
-**Assignment Due:** Thursday, September 25th, 11:59 PM EST
+**Assignment Due:** Thursday, September 17th 2026, 11:59 PM EST
 
 ## Overview
 In this assignment, you will:
